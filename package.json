@@ -1,0 +1,26 @@
+{
+  "name": "localDB",
+  "version": "1.0.0",
+  "description": "基于nodejs，模拟数据库，将数据以json格式对本地文件进行读写",
+  "main": "index.js",
+  "scripts": {
+    "test": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unclary/localDB.git"
+  },
+  "keywords": [
+    "nodejs",
+    "db",
+    "fs",
+    "json",
+    "mongodb"
+  ],
+  "author": "wangcl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unclary/localDB/issues"
+  },
+  "homepage": "https://github.com/unclary/localDB"
+}
